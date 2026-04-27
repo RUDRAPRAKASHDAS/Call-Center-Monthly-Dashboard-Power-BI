@@ -1,8 +1,5 @@
 Call Center Monthly Dashboard (Power BI)
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
-
-https://Call%2520Center%2520Monthly%2520Dashboard.png
+https://github.com/RUDRAPRAKASHDAS/Call-Center-Monthly-Dashboard-Power-BI/blob/main/Call%20Center%20Monthly%20Dashboard.png
 
 📌 Overview
 This project features a comprehensive Call Center Monthly Dashboard developed using Power BI. The primary goal is to transform raw operational data into actionable insights, enabling management to monitor performance, analyze key metrics, and make data-driven decisions to improve overall call center efficiency and customer satisfaction.
