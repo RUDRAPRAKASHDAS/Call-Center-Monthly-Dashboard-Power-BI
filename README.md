@@ -5,8 +5,7 @@
 
 ## 📊 Dashboard Preview
 
-[Call Center Monthly Dashboard](Call Center Monthly Dashboard.png)
-https://github.com/RUDRAPRAKASHDAS/Call-Center-Monthly-Dashboard-Power-BI/blob/main/Call%20Center%20Monthly%20Dashboard.png
+![Call Center Monthly Dashboard](https://raw.githubusercontent.com/RUDRAPRAKASHDAS/Call-Center-Monthly-Dashboard-Power-BI/main/Call%20Center%20Monthly%20Dashboard.png)
 
 ## 📌 Overview
 
