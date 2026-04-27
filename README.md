@@ -1,72 +1,66 @@
-Call Center Monthly Dashboard (Power BI)
-https://github.com/RUDRAPRAKASHDAS/Call-Center-Monthly-Dashboard-Power-BI/blob/main/Call%20Center%20Monthly%20Dashboard.png
+# Call Center Monthly Dashboard (Power BI)
 
-📌 Overview
-This project features a comprehensive Call Center Monthly Dashboard developed using Power BI. The primary goal is to transform raw operational data into actionable insights, enabling management to monitor performance, analyze key metrics, and make data-driven decisions to improve overall call center efficiency and customer satisfaction.
-✨ Key Features & KPIs
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+## 📊 Dashboard Preview
+
+![Call Center Monthly Dashboard](Call Center Monthly Dashboard.png)
+
+## 📌 Overview
+
+This project features a comprehensive **Call Center Monthly Dashboard** developed using **Power BI**. The primary goal is to transform raw operational data into actionable insights, enabling management to monitor performance, analyze key metrics, and make data-driven decisions to improve overall call center efficiency and customer satisfaction.
+
+## ✨ Key Features & KPIs
+
 The dashboard provides a 360-degree view of call center operations through the following metrics and analyses:
 
-📊 Key Performance Indicators (KPIs)
-Total Call Duration: 824.2K minutes (Equivalent to 13.74K hours)
+### 📊 Key Performance Indicators (KPIs)
+- **Total Call Duration:** `824.2K minutes` (Equivalent to `13.74K hours`)
+- **Average Call Duration:** `25.02 minutes`
+- **Total Calls:** `33K`
+- **Response Time %:** `0.75%`
 
-Average Call Duration: 25.02 minutes
+### 📈 Performance Insights
+- **Channel Analysis:** Distribution of customer interactions across **Call Center**, **Email**, **Chatbot**, and **Web**
+- **State & City Analysis:** Geographic mapping of call volumes to identify regional trends
+- **Reason Analysis:** Categorization of calls into **Billing Questions**, **Payments**, and **Service Outages**
+- **Sentiment Analysis:** Customer calls segmented by sentiment (**Positive**, **Negative**, **Neutral**)
+- **Day-wise Trends:** Daily call volume patterns for workforce planning
 
-Total Calls: 33K
-
-Response Time %: 0.75% (Percentage of calls answered within a target timeframe)
-
-📈 Performance Insights
-Channel Analysis: Distribution of customer interactions across Call Center, Email, Chatbot, and Web to understand channel preference and volume.
-
-State & City Analysis: Geographic mapping of call volumes to identify regional trends and high-demand areas.
-
-Reason Analysis: Categorization of calls into Billing Questions, Payments, and Service Outages for root cause identification and proactive problem-solving.
-
-Sentiment Analysis: Customer calls segmented by sentiment (Positive, Negative, Neutral) to track and manage customer satisfaction levels.
-
-Day-wise Trends: Daily call volume patterns to optimize staffing, workforce planning, and resource allocation.
-
-💡 Value & Business Impact
+## 💡 Business Impact
 
 This dashboard empowers decision-makers to:
 
-✅ Reduce Average Handling Time (AHT) by identifying bottlenecks.
+- ✅ **Reduce Average Handling Time (AHT)** by identifying bottlenecks
+- ✅ **Improve Customer Satisfaction (CSAT)** by tracking sentiment
+- ✅ **Optimize Resource Allocation** based on day-wise and geographic trends
+- ✅ **Identify Recurring Customer Issues** via reason and channel analysis
 
-✅ Improve Customer Satisfaction (CSAT) by tracking sentiment and issue resolution.
+## 🛠️ Tools Used
 
-✅ Optimize Resource Allocation based on day-wise and geographic trends.
+- **Power BI** - Data modeling, DAX calculations, visualization
+- **Microsoft Excel** - Data cleaning & preparation
 
-✅ Identify Recurring Customer Issues via reason and channel analysis.
+## 📁 Repository Files
 
-🛠️ Tools & Technologies Used
-Tool	Purpose
-Power BI	Data modeling
-DAX calculations
-interactive dashboard creation and visualization.
-Microsoft Excel	Initial data cleaning, preparation, and sanity checks before loading into Power BI.
+- `Call Center Monthly Dashboard.pbix` - Main Power BI file
+- `Call Center_Call Center.csv` - Raw dataset
+- `Call Center Monthly Dashboard.png` - Dashboard screenshot
 
-📁 Repository Structure
-/Call-Center-Monthly-Dashboard-Power-BI
-├── Call Center_Monthly_Dashboard.pbix   # Main Power BI report file
-├── Call Center_Call Center.csv           # Raw dataset used for the dashboard
-├── Call Center Monthly Dashboard.png     # Static preview image of the dashboard
-└── README.md                             # Project documentation (this file)
+## 🚀 How to Use
 
+1. Clone the repository
+2. Open `Call Center Monthly Dashboard.pbix` in Power BI Desktop
+3. Refresh data if needed
+4. Explore interactive visualizations
 
-✅ What I Analyzed and Improved:
+## 👤 Author
 
-From your GitHub code: I saw the commit structure shows you have the .pbix file, the .csv raw data, and the .png image. The README I wrote references these files exactly.
+**Rudra Prakash Das**
 
-From your description: I used all your specific KPIs (e.g., 824.2K minutes, 0.75 response time) and feature categories.
+[![GitHub](https://img.shields.io/badge/GitHub-RUDRAPRAKASHDAS-181717?style=flat-square&logo=github)](https://github.com/RUDRAPRAKASHDAS)
 
-Professional Enhancements Added:
+---
 
-Badges: For visual appeal and tech stack clarity.
-
-Repository Structure: To show file organization.
-
-How-to-Use Section: Practical steps for cloning and refreshing.
-
-Business Impact Section: Ties features directly to value.
-
-Clear separation between KPIs and deeper insights.
+⭐ Star this repository if you find it useful!
