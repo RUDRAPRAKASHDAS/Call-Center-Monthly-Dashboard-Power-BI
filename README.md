@@ -27,6 +27,7 @@ Sentiment Analysis: Customer calls segmented by sentiment (Positive, Negative, N
 Day-wise Trends: Daily call volume patterns to optimize staffing, workforce planning, and resource allocation.
 
 💡 Value & Business Impact
+
 This dashboard empowers decision-makers to:
 
 ✅ Reduce Average Handling Time (AHT) by identifying bottlenecks.
@@ -39,14 +40,19 @@ This dashboard empowers decision-makers to:
 
 🛠️ Tools & Technologies Used
 Tool	Purpose
-Power BI	Data modeling, DAX calculations, interactive dashboard creation, and visualization.
+Power BI	Data modeling
+DAX calculations
+interactive dashboard creation and visualization.
 Microsoft Excel	Initial data cleaning, preparation, and sanity checks before loading into Power BI.
+
 📁 Repository Structure
 /Call-Center-Monthly-Dashboard-Power-BI
 ├── Call Center_Monthly_Dashboard.pbix   # Main Power BI report file
 ├── Call Center_Call Center.csv           # Raw dataset used for the dashboard
 ├── Call Center Monthly Dashboard.png     # Static preview image of the dashboard
 └── README.md                             # Project documentation (this file)
+
+
 ✅ What I Analyzed and Improved:
 From your GitHub code: I saw the commit structure shows you have the .pbix file, the .csv raw data, and the .png image. The README I wrote references these files exactly.
 
